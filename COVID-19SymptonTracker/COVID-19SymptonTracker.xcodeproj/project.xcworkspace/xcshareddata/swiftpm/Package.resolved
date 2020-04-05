@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CareKit",
+        "repositoryURL": "https://github.com/carekit-apple/CareKit",
+        "state": {
+          "branch": "master",
+          "revision": "b806cdfa4c1be86b6ade40119d013bc0098bca4e",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
